@@ -13,4 +13,4 @@ Em busca da minha primeira oportunidade de **estágio** em Mogi das Cruzes, São
 - Aprofundando em Git e boas práticas de desenvolvimento back-end
 
 ### Contato
-[LinkedIn](https://www.linkedin.com/in/fernando-panichek)
+[LinkedIn](https://www.linkedin.com/in/fernando-panichek) · fernandopanichek@gmail.com
